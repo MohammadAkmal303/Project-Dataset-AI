@@ -15,3 +15,10 @@ files2 = []
 
 images1 = [cv2.imread(file1) for file1 in files1]
 images2 = [cv2.imread(file2) for file2 in files2]
+
+i = 1
+for img1 in images1:
+    img_adjusted1 = cv2.addWeighted(img1, 1.5, np.zeros(img1.shape, img1.dtype), 0, -12)
+    img_name1 = "Dataset/img-procces-jeruknipis/" + str(i) + ".jpg"
+    cv2.imwrite(img_name1, img_adjusted1)
+    i += 1
