@@ -22,3 +22,10 @@ for img1 in images1:
     img_name1 = "Dataset/img-procces-jeruknipis/" + str(i) + ".jpg"
     cv2.imwrite(img_name1, img_adjusted1)
     i += 1
+
+x = 1
+for img2 in images2:
+    img_adjusted2 = cv2.addWeighted(img2, 1.5, np.zeros(img2.shape, img2.dtype), 0, 10)
+    img_name2 = "Dataset/img-procces-Seledri/" + str(i) + ".jpg"
+    cv2.imwrite(img_name2, img_adjusted2)
+    x += 1
