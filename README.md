@@ -6,3 +6,7 @@ Dalam 2 minggu ini kelompok kami sudah mengumpulkan 50 foto daun jeruk nipis dan
 
 # Kendala dalam 2 minggu ini
 Kendalanya yaitu ketika mengumpulkan sempel daun jeruk nipis karena tidak di setiap tempat dan daerah terdapat pohon jeruk nipis
+
+# Penerapan Materi Pertemuan 4
+Kelompok kami mencoba untuk menerapkan materi pada pertemuan ke 4 yaitu Images Fundamental
+dan menerapkannya pada Dataset yang telah kami kumpulkan yaitu Daun Jeruk Nipis dan Daun Seledri
