@@ -10,3 +10,8 @@ Kendalanya yaitu ketika mengumpulkan sempel daun jeruk nipis karena tidak di set
 # Penerapan Materi Pertemuan 4
 Kelompok kami mencoba untuk menerapkan materi pada pertemuan ke 4 yaitu Images Fundamental
 dan menerapkannya pada Dataset yang telah kami kumpulkan yaitu Daun Jeruk Nipis dan Daun Seledri
+
+# Pertemuan 5
+Kali ini kami mencoba seperti yang di contohkan bapak dan menerapkan nya pada dataset kami
+kendala kami yang pertama tentu saja di Source Code yg sering error dan
+komputer masih salah membaca dataset kami
