@@ -15,3 +15,8 @@ dan menerapkannya pada Dataset yang telah kami kumpulkan yaitu Daun Jeruk Nipis 
 Kali ini kami mencoba seperti yang di contohkan bapak dan menerapkan nya pada dataset kami
 kendala kami yang pertama tentu saja di Source Code yg sering error dan
 komputer masih salah membaca dataset kami
+
+# Pertemuan 6
+Pada kali ini kami mencoba code seperti yang telah dicontohkan bapak dan menerapkan pada dataset kami
+Kendala kami yaitu Source Code kita masih belum bisa langsung mempelajari dengan benar Foto bercobaan dari kami
+jadi perlu berulang kali belajar
