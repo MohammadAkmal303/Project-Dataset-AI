@@ -29,3 +29,4 @@ for img2 in images2:
     img_name2 = "Dataset/img-procces-Seledri/" + str(i) + ".jpg"
     cv2.imwrite(img_name2, img_adjusted2)
     x += 1
+    
